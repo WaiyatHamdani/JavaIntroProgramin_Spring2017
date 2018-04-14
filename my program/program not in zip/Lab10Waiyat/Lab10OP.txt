@@ -1,0 +1,4 @@
+File Lab10IP.txt has
+21 characters
+1 lines
+Java appears in the input file
